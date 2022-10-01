@@ -12,7 +12,7 @@ A program for mass boost server with nitro tokens
 
 # ⚙️ Instructions ⚙️
 1) [Download](https://github.com/nyax44/Discord-Server-Boost-Tool/archive/refs/heads/main.zip)
-2) Write tokens to the ``tokens.txt`` file (nyax44 folder)
+2) Write tokens to the ``tokens.txt`` file
 3) Give me a star on the project 😉
 4) Open start.bat
 
